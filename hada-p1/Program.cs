@@ -12,6 +12,7 @@ namespace hada_p1
 		{
 			do
 			{
+
 				string men;
 				System.Console.WriteLine("De que unidad partes? (s/m)");
 				men = System.Console.ReadLine();
